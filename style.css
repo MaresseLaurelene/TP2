@@ -1,13 +1,15 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #F8E6E0;
+
 }
 
 #header
 {
-	background: #ccc;
+	background: #F8E6E0;
 	padding: 20px;
+	border-radius:6px;
 }
 
 #header h1 { margin: 0; }
@@ -77,6 +79,8 @@
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
+	text-align:center;
+	background-color:#F2F2F2;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
